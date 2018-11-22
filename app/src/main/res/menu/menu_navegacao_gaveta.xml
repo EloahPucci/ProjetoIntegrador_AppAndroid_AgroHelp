@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/account"
+        android:title="Minha Conta" />
+
+    <item
+        android:id="@+id/propostas"
+        android:icon="@drawable/clipboard_text"
+        android:title="Minhas Propostas"/>
+
+    <item
+        android:id="@+id/servicos_em_andamento"
+        android:icon="@drawable/icon_money"
+        android:title="Orçamentos"/>
+
+</menu>
